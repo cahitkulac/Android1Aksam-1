@@ -9,6 +9,7 @@
 - XML, HTML Taglerinden bahsedilmesi
 - Codeshare.io'dan bahsedilmesi
 - Android Projelerinin Github'da yedeklenmesi
+- (ADB Universal Driver) http://adbdriver.com/downloads/
 ### 23.04.2019 Salı
 - 23 Nisan dolayısıyla eğitim yapılmayacaktır.
 ### 24.04.2019 Çarşamba
