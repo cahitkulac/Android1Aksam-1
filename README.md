@@ -5,7 +5,10 @@
 ## 1.hafta
 ### 22.04.2019 Pazartesi
 - Ders İşleyişinin Örneklendirilmesi
-- Github Kullanımı
+- Github Kullanımı (Repo Üretimi)
+- XML, HTML Taglerinden bahsedilmesi
+- Codeshare.io'dan bahsedilmesi
+- Android Projelerinin Github'da yedeklenmesi
 ### 23.04.2019 Salı
 - 23 Nisan dolayısıyla eğitim yapılmayacaktır.
 ### 24.04.2019 Çarşamba
